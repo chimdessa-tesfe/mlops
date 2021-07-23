@@ -331,7 +331,7 @@ plot_preds(y_test, y_preds, 'Logistic Regression')
 # In[86]:
 
 
-For decision tree we will use pre determined parameters which consider K-fold as 5.
+#For decision tree we will use pre determined parameters which consider K-fold as 5.
 
 
 # In[111]:
