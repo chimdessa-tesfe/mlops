@@ -42,7 +42,7 @@ from sklearn.linear_model import LogisticRegression
 sns.set()
 import warnings
 warnings.filterwarnings('ignore')
-path='C:/Users/chuna/Downloads/week4/AdSmartABdata.csv'
+path='C:/Users/AB/Desktop/AdSmartABdata.csv'
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 from google.colab import auth
