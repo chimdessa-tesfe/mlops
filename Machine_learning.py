@@ -455,7 +455,7 @@ plot_importance(model)
 # In[ ]:
 
 
-Discussion about usage of A/B testing, k-fold and Machine learning approach are discused on the paper.
+#Discussion about usage of A/B testing, k-fold and Machine learning approach are discused on the paper.
  
 
 
