@@ -11,7 +11,6 @@
 
 
 import os
-import pandas as pd
 import seaborn as sns
 from scipy.stats import norm
 import math as mt
